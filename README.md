@@ -5,7 +5,7 @@ This a canister that allows users to:
 1. Create an event.
 2. Fetch and view the event by its ID.
 3. Mark an RSVP for an event once.
-4. Update the event by its ID.
+4. Update the event by its ID. 
 5. Delete an event if you are the owner of that event.
 
 ### Requirements
