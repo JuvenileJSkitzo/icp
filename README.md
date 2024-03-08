@@ -1,5 +1,5 @@
 # icp_rust
-            
+             
 This a canister that allows users to:
               
 1. Create an event.
